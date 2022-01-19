@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Blop 07.wav-c04c3dccb9a554536c1c31e12ff98821.sample"
+
+[deps]
+
+source_file="res://GameSFX/Blops/Retro Blop 07.wav"
+dest_files=[ "res://.import/Retro Blop 07.wav-c04c3dccb9a554536c1c31e12ff98821.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

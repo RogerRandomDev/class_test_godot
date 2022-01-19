@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Retro Magic 54.wav-fa8141b9b2d9aa31d666a20122d5f4ae.sample"
+
+[deps]
+
+source_file="res://GameSFX/Magic/Retro Magic 54.wav"
+dest_files=[ "res://.import/Retro Magic 54.wav-fa8141b9b2d9aa31d666a20122d5f4ae.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
